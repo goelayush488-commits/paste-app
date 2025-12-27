@@ -50,7 +50,7 @@ To add Tailwind CSS to your Vite + React project, follow these steps:
 
 2. Initialize Tailwind configuration:
 
-   ```bash
+   ```bash 
    npx tailwindcss init
    ```
 
@@ -190,3 +190,5 @@ export default {
 This template sets up a React project with Vite, ESLint, Tailwind CSS, and Redux Toolkit for state management. With this setup, you can quickly start building modern, scalable web applications. Feel free to customize it further according to your project requirements!
 
 ---
+
+so this is it.
